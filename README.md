@@ -4,8 +4,8 @@ learn c\
 lean d
 x1 x4
 ## h4 the new high score
-x2
+x2 x3
 x3 x5 xn
 xx
-co co
-c1
+co c
+x
