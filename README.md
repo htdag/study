@@ -1,3 +1,4 @@
 # study
 learning everything...  
-learn c
+learn c\
+lean d
