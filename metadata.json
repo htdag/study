@@ -1,7 +1,7 @@
 [
   {
    "name": "abc",
-   "file": 'abcd.js',
-   "tags": 'anem, asmdsa, asdmsa, asddsds, asdsad,'
+   "file": 'abcd.js",
+   "tags": "anem, asmdsa, asdmsa, asddsds, asdsad,"
   }
 ]
