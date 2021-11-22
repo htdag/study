@@ -2,14 +2,14 @@
 learning everything...  
 learn c\s
 lean d4 s
-x1 x4
+x1 x4d
 ## h4 the new high scores
 x2 x3
 x3 x5 xn
-xx d
+xx ds
 co c s
 x ss
-1
-2s
+1s
+2ss
 3
 4 s
