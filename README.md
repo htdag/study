@@ -1,2 +1,4 @@
 # study
-## h4 the new high scores
+## day 1
+
+## day 2
