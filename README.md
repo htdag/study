@@ -4,3 +4,5 @@
 
 ## day 2
 - TODO
+
+## day 3
